@@ -11,12 +11,6 @@ ecosystems side-by-side.
 🌐 **[View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)**
 
 
-All cheat sheets are located inside the:
-
-    Cheat_Sheet/
-
-directory.
-
 ------------------------------------------------------------------------
 
 ## Table of Contents
@@ -28,6 +22,13 @@ directory.
 5.  Machine Learning (caret/tidymodels ↔ scikit-learn)
 6.  File I/O
 7.  Handy Mental Mapping
+
+
+All cheat sheets are located inside the:
+
+    Cheat_Sheet/
+
+directory.
 
 ------------------------------------------------------------------------
 
