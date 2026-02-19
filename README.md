@@ -8,6 +8,9 @@ designed to help you mentally translate, compare, and master both
 ecosystems side-by-side.
 
 
+## 🌐 [View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)
+
+
 ------------------------------------------------------------------------
 
 ## Table of Contents
@@ -20,10 +23,10 @@ ecosystems side-by-side.
 6.  File I/O
 7.  Handy Mental Mapping
 
-
-## 🌐 [View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)
-
-
 ------------------------------------------------------------------------
+
+
+
+
 
 © Where R Meets Python --- A bilingual data science companion.
