@@ -1,16 +1,3 @@
----
-title: "Where R Meets Python"
-author: "Junqiang Wang"
-date: "`r Sys.Date()`"
-output:
-  html_notebook:
-    toc: true
-    toc_float: true
-    number_sections: true
-    theme: flatly
-    df_print: paged
----
-
 # Where R Meets Python
 
 ## A Practical Bilingual Data Science Atlas
@@ -19,9 +6,11 @@ Welcome to **Where R Meets Python** --- a structured, book-style atlas
 designed to help you mentally translate, compare, and master both
 ecosystems side-by-side.
 
-All cheat sheets are located inside:
+All cheat sheets are located inside the:
 
     Cheat_Sheet/
+
+directory.
 
 ------------------------------------------------------------------------
 
@@ -39,102 +28,51 @@ All cheat sheets are located inside:
 
 ### Core Data Structures
 
-**Download PDF:**\
-[Open PDF](Cheat_Sheet/R_vs_Python_Core_Data_Structures_Cheat_Sheet.pdf)
-
-```{=html}
-<iframe src="Cheat_Sheet/R_vs_Python_Core_Data_Structures_Cheat_Sheet.pdf" width="100%" height="900px">
-```
-```{=html}
-</iframe>
-```
+📄 PDF: [Core Data Structures Cheat
+Sheet](Cheat_Sheet/R_vs_Python_Core_Data_Structures_Cheat_Sheet.pdf)
 
 ------------------------------------------------------------------------
 
 ### Data Wrangling
 
-**Download PDF:**\
-[Open PDF](Cheat_Sheet/R_vs_Python_Data_Wrangling_Cheat_Sheet_v3.pdf)
-
-```{=html}
-<iframe src="Cheat_Sheet/R_vs_Python_Data_Wrangling_Cheat_Sheet_v3.pdf" width="100%" height="900px">
-```
-```{=html}
-</iframe>
-```
+📄 PDF: [Data Wrangling Cheat
+Sheet](Cheat_Sheet/R_vs_Python_Data_Wrangling_Cheat_Sheet_v3.pdf)
 
 ------------------------------------------------------------------------
 
 ### Statistics: Common Tests & Summaries
 
-**Download PDF:**\
-[Open
-PDF](Cheat_Sheet/R_vs_Python_Stats_Common_Tests_Summaries_Cheat_Sheet.pdf)
-
-```{=html}
-<iframe src="Cheat_Sheet/R_vs_Python_Stats_Common_Tests_Summaries_Cheat_Sheet.pdf" width="100%" height="900px">
-```
-```{=html}
-</iframe>
-```
+📄 PDF: [Statistics Cheat
+Sheet](Cheat_Sheet/R_vs_Python_Stats_Common_Tests_Summaries_Cheat_Sheet.pdf)
 
 ------------------------------------------------------------------------
 
 ### Visualization
 
-**Download PDF:**\
-[Open
-PDF](Cheat_Sheet/R_vs_Python_Visualization_Matplotlib_Seaborn_GGplot2_Cheat_Sheet.pdf)
-
-```{=html}
-<iframe src="Cheat_Sheet/R_vs_Python_Visualization_Matplotlib_Seaborn_GGplot2_Cheat_Sheet.pdf" width="100%" height="900px">
-```
-```{=html}
-</iframe>
-```
+📄 PDF: [Visualization Cheat
+Sheet](Cheat_Sheet/R_vs_Python_Visualization_Matplotlib_Seaborn_GGplot2_Cheat_Sheet.pdf)
 
 ------------------------------------------------------------------------
 
 ### Machine Learning
 
-**Download PDF:**\
-[Open
-PDF](Cheat_Sheet/R_vs_Python_ML_ScikitLearn_Caret_Tidymodels_Cheat_Sheet.pdf)
-
-```{=html}
-<iframe src="Cheat_Sheet/R_vs_Python_ML_ScikitLearn_Caret_Tidymodels_Cheat_Sheet.pdf" width="100%" height="900px">
-```
-```{=html}
-</iframe>
-```
+📄 PDF: [Machine Learning Cheat
+Sheet](Cheat_Sheet/R_vs_Python_ML_ScikitLearn_Caret_Tidymodels_Cheat_Sheet.pdf)
 
 ------------------------------------------------------------------------
 
 ### File I/O
 
-**Download PDF:**\
-[Open PDF](Cheat_Sheet/R_vs_Python_File_IO_Cheat_Sheet.pdf)
-
-```{=html}
-<iframe src="Cheat_Sheet/R_vs_Python_File_IO_Cheat_Sheet.pdf" width="100%" height="900px">
-```
-```{=html}
-</iframe>
-```
+📄 PDF: [File I/O Cheat
+Sheet](Cheat_Sheet/R_vs_Python_File_IO_Cheat_Sheet.pdf)
 
 ------------------------------------------------------------------------
 
 ### Handy Mental Mapping
 
-**Download PDF:**\
-[Open PDF](Cheat_Sheet/R_vs_Python_Handy_Mental_Mapping_Cheat_Sheet.pdf)
+📄 PDF: [Handy Mental Mapping Cheat
+Sheet](Cheat_Sheet/R_vs_Python_Handy_Mental_Mapping_Cheat_Sheet.pdf)
 
-```{=html}
-<iframe src="Cheat_Sheet/R_vs_Python_Handy_Mental_Mapping_Cheat_Sheet.pdf" width="100%" height="900px">
-```
-```{=html}
-</iframe>
-```
 
 ------------------------------------------------------------------------
 
