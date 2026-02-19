@@ -1,4 +1,3 @@
-🌐 **[View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)**
 
 # Where R Meets Python
 
@@ -7,6 +6,10 @@
 Welcome to **Where R Meets Python** --- a structured, book-style atlas
 designed to help you mentally translate, compare, and master both
 ecosystems side-by-side.
+
+
+🌐 **[View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)**
+
 
 All cheat sheets are located inside the:
 
