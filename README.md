@@ -8,9 +8,6 @@ designed to help you mentally translate, compare, and master both
 ecosystems side-by-side.
 
 
-## 🌐 [View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)
-
-
 ------------------------------------------------------------------------
 
 ## Table of Contents
@@ -24,60 +21,7 @@ ecosystems side-by-side.
 7.  Handy Mental Mapping
 
 
-All cheat sheets are located inside the:
-
-    Cheat_Sheet/
-
-directory.
-
-------------------------------------------------------------------------
-
-### Core Data Structures
-
-📄 PDF: [Core Data Structures Cheat
-Sheet](Cheat_Sheet/R_vs_Python_Core_Data_Structures_Cheat_Sheet.pdf)
-
-------------------------------------------------------------------------
-
-### Data Wrangling
-
-📄 PDF: [Data Wrangling Cheat
-Sheet](Cheat_Sheet/R_vs_Python_Data_Wrangling_Cheat_Sheet_v3.pdf)
-
-------------------------------------------------------------------------
-
-### Statistics: Common Tests & Summaries
-
-📄 PDF: [Statistics Cheat
-Sheet](Cheat_Sheet/R_vs_Python_Stats_Common_Tests_Summaries_Cheat_Sheet.pdf)
-
-------------------------------------------------------------------------
-
-### Visualization
-
-📄 PDF: [Visualization Cheat
-Sheet](Cheat_Sheet/R_vs_Python_Visualization_Matplotlib_Seaborn_GGplot2_Cheat_Sheet.pdf)
-
-------------------------------------------------------------------------
-
-### Machine Learning
-
-📄 PDF: [Machine Learning Cheat
-Sheet](Cheat_Sheet/R_vs_Python_ML_ScikitLearn_Caret_Tidymodels_Cheat_Sheet.pdf)
-
-------------------------------------------------------------------------
-
-### File I/O
-
-📄 PDF: [File I/O Cheat
-Sheet](Cheat_Sheet/R_vs_Python_File_IO_Cheat_Sheet.pdf)
-
-------------------------------------------------------------------------
-
-### Handy Mental Mapping
-
-📄 PDF: [Handy Mental Mapping Cheat
-Sheet](Cheat_Sheet/R_vs_Python_Handy_Mental_Mapping_Cheat_Sheet.pdf)
+## 🌐 [View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)
 
 
 ------------------------------------------------------------------------
