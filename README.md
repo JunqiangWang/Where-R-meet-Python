@@ -8,7 +8,7 @@ designed to help you mentally translate, compare, and master both
 ecosystems side-by-side.
 
 
-🌐 *****[View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)*****
+## 🌐 [View Interactive Version](https://junqiangwang.github.io/Where-R-meet-Python/)
 
 
 ------------------------------------------------------------------------
